@@ -1,1 +1,1 @@
-LSE EME Thesis for EC331
+LSE BSc EME Thesis for EC331: Quantitative Economics
